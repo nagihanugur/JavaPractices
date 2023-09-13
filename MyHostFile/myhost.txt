@@ -1,0 +1,2 @@
+77.124.52.63 google.com
+123.45.67.89 facebook.com

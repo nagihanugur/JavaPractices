@@ -1,0 +1,6 @@
+Nagihan Uğur,90,90,95
+Selenay Uğur,80,70,95
+Yağmur Uğur,60,70,55
+Yiğit Uğur,70,80,95
+Lale Uğur,70,50,75
+İrfan Uğur,80,60,85
